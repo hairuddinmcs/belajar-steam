@@ -2,7 +2,7 @@
 
 **Nama tim: EcoChain**
 **Nama produk:EcoChain: Platform Cerdas Pemantauan Rantai Pasok dan Jejak Karbon Berbasis IoT dan Kecerdasan Buatan**
-**Alur inti yang dibangun:** (satu kalimat, contoh: "Pelanggan memesan keripik dan melihat total harga beserta ongkir")
+**Alur inti yang dibangun:** (satu kalimat, contoh: "Pelanggan memesan keripik dan melihat total harga beserta ongkir ")
 
 ## 1. Masalah
 Masalah apa yang diselesaikan? Siapa yang mengalaminya?
